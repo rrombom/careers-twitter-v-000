@@ -4,7 +4,6 @@ Like LinkedIn, Twitter is another social media network that can be beneficial fo
 
 ## How Twitter Works 
 
-How Twitter works 
 Twitter revolves around tweeting. This is like posting statuses. Because tweets are limited to 140 characters, it’s not the place to go to write long-form. (Save that for your blog!) Many people enjoy Twitter because of its brevity. It prevents people from getting stuck in 30-minute long conversations 
 
 A hallmark of the Twitter platform is hashtags. (The # symbol.) Essentially, it’s a way to categorize messages based on topic/keyword. It allows people to follow related tweets and makes it easier to find tweets/users in Twitter’s Search. While using hashtags in your tweets is good, make sure to do so in moderation. #Hashtagging #every #word #in #your #tweet #is #not #necessary #and #looks #spammy.
@@ -93,3 +92,5 @@ Think about which people, companies, and hashtags to follow and what your plan t
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-twitter'>Careers Twitter </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-twitter'>Twitter</a> on Learn.co and start learning to code for free.</p>
