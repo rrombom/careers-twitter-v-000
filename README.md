@@ -81,16 +81,3 @@ Twitter is best for engaging with others and making connections. However, it can
 Twitter is like a cocktail party. It allows you to chat with others, and jump in and out of conversations. Twitter can also serve as a way to stay current in the tech industry by following news sites, thought leaders, and more. 
 
 In the end, always try to bring your Twitter conversations off the platform and into your inbox, on the phone/Skype, or a face-to-face coffee meeting. 
-
-## Assignment
-
-There's nothing to submit for this assignment, but complete the action items. 
-
-If you don't have a Twitter account, [set one up](https://support.twitter.com/articles/100990). Follow the best practices laid out in this lesson. 
-
-Think about which people, companies, and hashtags to follow and what your plan to engage with others are. It's great to post original tweets, but remember that retweeting and liking are just as, if not more, important. Try to follow the 80/20 rule when it comes to engagement/original content you have on Twitter. 
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-twitter'>Careers Twitter </a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-twitter'>Twitter</a> on Learn.co and start learning to code for free.</p>
